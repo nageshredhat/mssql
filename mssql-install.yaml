@@ -1,6 +1,6 @@
 ---
 
-- hosts: dev
+- hosts: 34.204.180.142
   become: yes
   gather_facts: False
 
